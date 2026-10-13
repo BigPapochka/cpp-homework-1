@@ -1,0 +1,14 @@
+build/
+cmake-build-*/
+.idea/
+.vscode/
+.vs/
+*.o
+*.obj
+*.exe
+*.out
+*.pdb
+*.ilk
+*.idb
+*.user
+*.suo
