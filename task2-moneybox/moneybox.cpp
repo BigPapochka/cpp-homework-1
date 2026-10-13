@@ -1,5 +1,5 @@
 #include <iostream>
-// для поиска по названию команды
+// Для поиска по названию команды
 bool AreEqual(const char* first, const char* second) {
   int i = 0;
   while (first[i] != '\0') {
